@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Im Quinton Josephs. A Certified Microsoft DevOps Engineer. I have 4+ years of experience in building and deploying CI/CD pipelines, Implementing strong secure cloud architectures amd performing automation, orchastration, containerasation and monitoring using Docker, Kubernetes, Ansible etc on Microsoft Azure Platform. 
 
 <!--
 **devleverage/devleverage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
